@@ -31,4 +31,4 @@ Trabalhos Final da disciplina de Algoritmos e estrutura de dados II(CI1056) pelo
 
 Para executar o projeto, basta executar o comando **make**.
 
-Período original em que o projeto foi feito: 02/2018
+Período original em que o projeto foi feito: 2° Sem. 2018
